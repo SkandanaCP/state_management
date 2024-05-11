@@ -1,0 +1,73 @@
+{
+  "category": [
+    {
+      "name": "electronics",
+      "id": 1
+    },
+    {
+      "name": "clothes",
+      "id": 2
+    },
+    {
+      "name": "shoes",
+      "id": 3
+    },
+    {
+      "name": "beds",
+      "id": 4
+    }
+  ],
+  "catalogue": [
+    {
+      "name": "I phone ",
+      "amount": "90000",
+      "description": "this is a premire i phone ",
+      "itemsLeft": "10",
+      "maxItems": "1",
+      "category": "electronics",
+      "id": 1
+    },
+    {
+      "name": "T-shirt",
+      "amount": "200",
+      "description": "this is a t-shirt",
+      "itemsLeft": "5",
+      "maxItems": "1",
+      "category": "clothes",
+      "id": 2
+    },
+    {
+      "name": "refrigirator",
+      "amount": "20000",
+      "description": "this is a refrigirator",
+      "itemsLeft": "10",
+      "maxItems": "2",
+      "category": "electronics",
+      "id": 4
+    }
+  ],
+  "cartItems": [
+    {
+      "name": "I phone ",
+      "amount": "90000",
+      "description": "this is a premire i phone ",
+      "itemsLeft": "10",
+      "maxItems": "1",
+      "category": "electronics",
+      "id": 1,
+      "quantity": 1,
+      "total": "90000"
+    },
+    {
+      "name": "T-shirt",
+      "amount": "200",
+      "description": "this is a t-shirt",
+      "itemsLeft": "5",
+      "maxItems": "1",
+      "category": "clothes",
+      "id": 2,
+      "quantity": 2,
+      "total": 400
+    }
+  ]
+}

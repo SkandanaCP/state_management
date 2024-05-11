@@ -1,0 +1,102 @@
+{
+  "createItems": [
+    {
+      "name": "T-shirt",
+      "amount": "200",
+      "description": "This is a T-shirt from zudio",
+      "itemLeft": "10",
+      "maxItems": "5",
+      "category": "clothes",
+      "id": 1
+    },
+    {
+      "name": "Rich Dad Poor Dad",
+      "amount": "400",
+      "description": "This book can be read by people belonging to age group  18 to 60 years",
+      "itemLeft": "9",
+      "maxItems": "2",
+      "category": "books",
+      "id": 2
+    },
+    {
+      "name": "Cup Cake",
+      "amount": "20",
+      "description": "Cuup cakes made of chocolate and dough",
+      "itemLeft": "20",
+      "maxItems": "5",
+      "category": "Cakes",
+      "id": 3
+    },
+    {
+      "name": "Camera",
+      "amount": "50000",
+      "description": "This is a DSLR Camera",
+      "itemLeft": "9",
+      "maxItems": "1",
+      "category": "Electronics",
+      "id": 5
+    },
+    {
+      "name": "duroflex",
+      "amount": "15000",
+      "description": "this is a bed",
+      "itemLeft": "20",
+      "maxItems": "1",
+      "category": "beds",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "name": "books",
+      "id": 1
+    },
+    {
+      "name": "clothes",
+      "id": 2
+    },
+    {
+      "name": "shoes",
+      "id": 3
+    },
+    {
+      "name": "Cakes",
+      "id": 4
+    },
+    {
+      "name": "sports",
+      "id": 5
+    },
+    {
+      "name": "Electronics",
+      "id": 6
+    },
+    {
+      "name": "beds",
+      "id": 7
+    }
+  ],
+  "userCart": [
+    {
+      "name": "T-shirt",
+      "quantity": 2,
+      "price": "200",
+      "total": 400,
+      "description": "This is a T-shirt from zudio",
+      "itemsLeft": "10",
+      "maxQuantity": "5",
+      "category": "clothes",
+      "id": 1
+    },
+    {
+      "name": "Cup Cake",
+      "quantity": 1,
+      "price": "20",
+      "total": "20",
+      "description": "Cuup cakes made of chocolate and dough",
+      "itemsLeft": "20",
+      "category": "Cakes",
+      "id": 2
+    }
+  ]
+}

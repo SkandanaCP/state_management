@@ -1,0 +1,73 @@
+{
+  "category": [
+    {
+      "category": "shoes",
+      "id": 1
+    },
+    {
+      "category": "accesories",
+      "id": 2
+    },
+    {
+      "category": "Electronics",
+      "id": 3
+    },
+    {
+      "category": "cakes",
+      "id": 4
+    }
+  ],
+  "catalogue": [
+    {
+      "name": "Puma Shoes",
+      "amount": "3000",
+      "description": "This is a Puma shoes",
+      "itemsLeft": "5",
+      "maxItems": "2",
+      "category": "shoes",
+      "id": 1
+    },
+    {
+      "name": "Cup Cakes",
+      "amount": "20",
+      "description": "This is a cup cake",
+      "itemsLeft": "5",
+      "maxItems": "2",
+      "category": "cakes",
+      "id": 2
+    },
+    {
+      "name": "T shirt",
+      "amount": "600",
+      "description": "This is a T shirt",
+      "itemsLeft": "3",
+      "maxItems": "1",
+      "category": "accesories",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "Puma Shoes",
+      "amount": "3000",
+      "description": "This is a Puma shoes",
+      "itemsLeft": "5",
+      "maxItems": "2",
+      "category": "shoes",
+      "id": 1,
+      "quantity": 2,
+      "total": 6000
+    },
+    {
+      "name": "Cup Cakes",
+      "amount": "20",
+      "description": "This is a cup cake",
+      "itemsLeft": "5",
+      "maxItems": "2",
+      "category": "cakes",
+      "id": 2,
+      "quantity": 2,
+      "total": 40
+    }
+  ]
+}
