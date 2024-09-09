@@ -4,8 +4,7 @@ const Checkout = () => {
   return (
     <>
     {/* <Link to='/checkout'>    </Link> */}
-    <h1>Checkout added</h1>
-
+    <h1>Checkout </h1>
     </>
   )
 }
